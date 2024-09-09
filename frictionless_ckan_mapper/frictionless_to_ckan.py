@@ -126,6 +126,8 @@ ckan_package_keys = [
     'viii_ketersediaan_produk_digital',
     'viii_ketersediaan_produk_mikrodata',
     'produsen_data_name',
+    'produsen_data_province_code',
+    'produsen_data_city_code',
     'total_msvar',
     'total_msind',
     'submission_period'
